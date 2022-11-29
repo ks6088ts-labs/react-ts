@@ -1,3 +1,5 @@
+[![test](https://github.com/ks6088ts-labs/react-ts/workflows/test/badge.svg)](https://github.com/ks6088ts-labs/react-ts/actions/workflows/test.yml)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
