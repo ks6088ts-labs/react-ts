@@ -6,7 +6,7 @@
 
 ```shell
 # run json server for local test
-npx json-server --watch assets/auth.json
+npx json-server --watch assets/auth.json --port 8080
 
 # check json data
 curl http://localhost:3000/items | jq -r .
